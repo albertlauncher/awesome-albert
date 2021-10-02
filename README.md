@@ -1,6 +1,6 @@
 Awesome Albert [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===============
-A curated list of third party albert extensions. Please note that there are also a lot of [official extensions](https://github.com/albertlauncher/python) shipped with the app.
+A curated list of third party albert extensions. Please note that there are also a lot of [official extensions](https://github.com/albertlauncher/python) shipped with the app. Also check [this search](https://github.com/search?q=albert+__title__+__version__+handleQuery+language%3APython&type=code) for all albert extensions on GitHub.
 
 ## List of content
 
