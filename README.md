@@ -9,4 +9,4 @@ A curated list of third party albert extensions
 
 ## System
 
-- [KDE Services extension for Albert Launcher](https://github.com/ManuelArto/KDEServices-AlbertExtension)
+- [KDE Services](https://github.com/ManuelArto/KDEServices-AlbertExtension)
