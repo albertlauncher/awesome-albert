@@ -5,6 +5,8 @@ A curated list of third party albert extensions
 
 ## List of content
 
-- [section](#section)
+- [System](#section)
 
-## Section
+## System
+
+- [KDE Services extension for Albert Launcher](https://github.com/ManuelArto/KDEServices-AlbertExtension)
