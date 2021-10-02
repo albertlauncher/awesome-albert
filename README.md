@@ -26,10 +26,11 @@ A curated list of third party albert extensions. Please note that there are also
 
 ## Web services
 
-- [AWS shortcuts](https://github.com/AlbertExtensions/aws)
-- [URL shortening](https://github.com/AlbertExtensions/Shorten)
-- [OMDB movie information](https://github.com/AlbertExtensions/Movies)
-- [Browse stackoverflow](https://github.com/AlbertExtensions/Stackoverflow)
-- [openweathermap.org forecast](https://github.com/AlbertExtensions/Forecast)
-- [GitHub starred projects](https://github.com/AlbertExtensions/Github-Jump)
+- [aws.amazon.com - Shortcuts](https://github.com/AlbertExtensions/aws)
+- [google.com - Search with suggestions](https://github.com/jairovsky/albert-extensions/blob/master/google_search.py)
+- [is.gd - URL shortening](https://github.com/AlbertExtensions/Shorten)
+- [omdb.org - Movie information](https://github.com/AlbertExtensions/Movies)
+- [stackoverflow.com - Browse articles](https://github.com/AlbertExtensions/Stackoverflow)
+- [openweathermap.org - Forecast](https://github.com/AlbertExtensions/Forecast)
+- [github.com - Starred projects shortcuts](https://github.com/AlbertExtensions/Github-Jump)
 
