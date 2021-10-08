@@ -15,6 +15,7 @@ A curated list of third party albert extensions. Please note that there are also
 - [DIG](https://github.com/Bierchermuesli/albert-dig) - dig-style DNS Lookups but pure python
 - [IPv4/IPv6 Subnet Calculator](https://github.com/Bierchermuesli/albert-subnetcalc)
 - [MAC addr](https://github.com/Bierchermuesli/albert-macaddr) Adress re-formating & HW Vendor Lookup (Local Cache or API)
+- [Remmina connections](https://github.com/KuenzelIT/albert-python-remmina)
 
 ## Productivity
 
