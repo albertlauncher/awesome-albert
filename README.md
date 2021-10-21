@@ -21,6 +21,8 @@ A curated list of third party albert extensions. Please note that there are also
 
 - [Password generator](https://github.com/baltpeter/albert-extensions/blob/master/pwgen.py)
 - [Hunspell spell checking](https://github.com/AlbertExtensions/spell)
+- [Google Translate](https://github.com/dshoreman/albert-translate) with API key, many options
+- [Deepl Translate](https://github.com/lilianmallardeau/deepl-plugin-albert/) with API key
 
 ## System
 
