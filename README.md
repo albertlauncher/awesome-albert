@@ -8,6 +8,7 @@ A curated list of third party albert extensions. Please note that there are also
 - [Productivity](#productivity)
 - [System](#system)
 - [Web services](#web-services)
+- [Miscellaneous](#miscellaneous)
 
 ## Networking
 
@@ -23,6 +24,7 @@ A curated list of third party albert extensions. Please note that there are also
 - [Hunspell spell checking](https://github.com/AlbertExtensions/spell)
 - [Google Translate](https://github.com/dshoreman/albert-translate) with API key, many options
 - [Deepl Translate](https://github.com/lilianmallardeau/deepl-plugin-albert/) with API key
+- [Timezone Convert](https://github.com/DenverCoder1/timezone-convert-albert-ext) - Convert between different timezones
 
 ## System
 
@@ -40,3 +42,6 @@ A curated list of third party albert extensions. Please note that there are also
 - [openweathermap.org - Forecast](https://github.com/AlbertExtensions/Forecast)
 - [github.com - Starred projects shortcuts](https://github.com/AlbertExtensions/Github-Jump)
 
+## Miscellaneous
+
+- [Dice Roll](https://github.com/DenverCoder1/dice-roll-albert-ext) - Roll any number of dice with any number of sides
