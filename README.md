@@ -8,6 +8,7 @@ A curated list of third party albert extensions. Please note that there are also
 - [Productivity](#productivity)
 - [System](#system)
 - [Web services](#web-services)
+- [Miscellaneous](#miscellaneous)
 
 ## Networking
 
@@ -40,6 +41,7 @@ A curated list of third party albert extensions. Please note that there are also
 - [Scratchpad](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/scratchpad) - 📝 Take quick notes into a single textfile
 - [Taskwarrior](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/taskwarrior) - 🪖 Interact with the [Taskwarrior](https://taskwarrior.org/) task manager
 - [Timezones](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/timezones) - 🌏 Lookup timezone information
+- [Timezone Convert](https://github.com/DenverCoder1/timezone-convert-albert-ext) - Convert between different timezones
 - [Tldr Lookup](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/tldr_pages) - Lookup [tldr](https://github.com/tldr-pages/tldr) pages and commands
 - [URL Error Lookup](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/url_lookup) - 🔗 Lookup URL error codes
 - [Words](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/words) - 🔤 Lookup a word definition, synonyms and antonyms
@@ -68,3 +70,7 @@ A curated list of third party albert extensions. Please note that there are also
 - [Harakiri](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/harakiri) - 📫 Create temporary email addresses at [harakirimail.com](https://harakirimail.com/)
 - [`googler`-based autocompletion search](https://github.com/bergercookie/awesome-albert-plugins#googler-based-plugins) - 🔎 for searching on google.com, github.com,
   stackoverflow, amazon, and a variety of other websites using [googler](https://github.com/jarun/googler)
+
+## Miscellaneous
+
+- [Dice Roll](https://github.com/DenverCoder1/dice-roll-albert-ext) - Roll any number of dice with any number of sides
