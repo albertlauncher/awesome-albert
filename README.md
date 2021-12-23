@@ -47,6 +47,8 @@ A curated list of third party albert extensions. Please note that there are also
 - [Words](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/words) - 🔤 Lookup a word definition, synonyms and antonyms
 - [Xkcd](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/xkcd) - 📓 List and fuzzy-search the latest [xkcd](https://fr.wikipedia.org/wiki/Xkcd) comics
 - [Template Albert Plugin](https://github.com/bergercookie/awesome-albert-plugins) - 🛠️ Template [cookiecutter](https://github.com/cookiecutter/cookiecutter) for creating new Albert plugins
+- [Unit Converter](https://github.com/DenverCoder1/unit-converter-albert-ext) - 📐 Convert between units of length, mass, speed, temperature, time,
+current, luminosity, printing measurements, molecular substance, and more
 
 ## System
 
