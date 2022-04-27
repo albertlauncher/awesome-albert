@@ -72,6 +72,9 @@ current, luminosity, printing measurements, molecular substance, and more
 - [Harakiri](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/harakiri) - 📫 Create temporary email addresses at [harakirimail.com](https://harakirimail.com/)
 - [`googler`-based autocompletion search](https://github.com/bergercookie/awesome-albert-plugins#googler-based-plugins) - 🔎 for searching on google.com, github.com,
   stackoverflow, amazon, and a variety of other websites using [googler](https://github.com/jarun/googler)
+- [linkding](https://github.com/Pete-Hamlin/albert_extensions/blob/master/doc/linkding.md) - Search saved links
+- [paperless-ng](https://github.com/Pete-Hamlin/albert_extensions/blob/master/doc/paperless.md) - Search/Download documents
+- [wallabag](https://github.com/Pete-Hamlin/albert_extensions/blob/master/doc/wallabag.md) - Search saved articles
 
 ## Miscellaneous
 
