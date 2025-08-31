@@ -67,9 +67,7 @@ Outdated plugins that could serve as starting point for development.
 
 Some other ways to find third party Albert plugins:
 
-* [v3 Python plugin search on GitHub](https://github.com/search?q=albert+md_version+%2Fmd_iid.*%3D.*%223%2F+language%3APython+NOT+owner%3Aalbertlauncher&type=code)
-* [v2 Python plugin search on GitHub](https://github.com/search?q=albert+md_version+%2Fmd_iid.*%3D.*%222%2F+language%3APython+NOT+owner%3Aalbertlauncher&type=code)
-* [v1 Python plugin search on GitHub](https://github.com/search?q=albert+md_version+%2Fmd_iid.*%3D.*%221%2F+language%3APython+NOT+owner%3Aalbertlauncher&type=code)
-* [v0 Python plugin search on GitHub](https://github.com/search?q=albert+md_version+%2Fmd_iid.*%3D.*%220%2F+language%3APython+NOT+owner%3Aalbertlauncher&type=code)
-* [Old plugin search (pre v0.18)](https://github.com/search?q=albert+__title__+__version__+handleQuery+language%3APython+NOT+owner%3Aalbertlauncher&type=code)
+* [APIv3 Python plugin search on GitHub](https://github.com/search?q=albert+md_version+%2Fmd_iid.*%3D.*%5B%22%7C%27%5D3%2F+language%3APython+NOT+owner%3Aalbertlauncher&type=code)
+* [Pre v3 Python plugin search on GitHub](https://github.com/search?q=%2Ffrom%5Cs*albert%2F+OR+%2Fimport%5Cs*albert%2F+__iid__+OR++%2Fmd_iid.*%3D.*%5B%22%7C%27%5D%2F+NOT+%2Fmd_iid.*%3D.*%5B%22%7C%27%5D3%2F+language%3APython+NOT+owner%3Aalbertlauncher&type=code&p=2)
+
 
