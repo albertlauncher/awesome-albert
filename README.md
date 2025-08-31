@@ -69,7 +69,7 @@ Some other ways to find third party Albert plugins:
 
 * [v3 Python plugin search on GitHub](https://github.com/search?q=albert+md_version+%2Fmd_iid.*%3D.*%223%2F+language%3APython+NOT+owner%3Aalbertlauncher&type=code)
 * [v2 Python plugin search on GitHub](https://github.com/search?q=albert+md_version+%2Fmd_iid.*%3D.*%222%2F+language%3APython+NOT+owner%3Aalbertlauncher&type=code)
-* [v1 Python plugin search on GitHub](https://github.com/search?q=albert+md_iid+%2Fmd_version.*%3D.*%221%2F+language%3APython+NOT+owner%3Aalbertlauncher&type=code)
-* [v0 Python plugin search on GitHub](https://github.com/search?q=albert+md_version+%2Fmd_version.*%3D.*%220%2F+language%3APython+NOT+owner%3Aalbertlauncher&type=code)
+* [v1 Python plugin search on GitHub](https://github.com/search?q=albert+md_version+%2Fmd_iid.*%3D.*%221%2F+language%3APython+NOT+owner%3Aalbertlauncher&type=code)
+* [v0 Python plugin search on GitHub](https://github.com/search?q=albert+md_version+%2Fmd_iid.*%3D.*%220%2F+language%3APython+NOT+owner%3Aalbertlauncher&type=code)
 * [Old plugin search (pre v0.18)](https://github.com/search?q=albert+__title__+__version__+handleQuery+language%3APython+NOT+owner%3Aalbertlauncher&type=code)
 
