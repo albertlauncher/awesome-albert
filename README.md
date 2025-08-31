@@ -2,10 +2,11 @@
 
 A curated list of Albert plugins that are not shipped with Albert.
 
-## Candidates
+## Official plugin candidates
 
+You can add your plugin contributions here.
 Please test and vote on your favorites.
-Note that these have not been peer-reviewed.
+Note that these plugins have not been peer-reviewed.
 
 - [Pete-Hamlin/albert-plugin-python-obsidian](https://github.com/Pete-Hamlin/albert-plugin-python-obsidian) ![GitHub Repo stars](https://img.shields.io/github/stars/Pete-Hamlin/albert-plugin-python-obsidian)
 - [Pete-Hamlin/albert-plugin-python-paperless](https://github.com/Pete-Hamlin/albert-plugin-python-paperless) ![GitHub Repo stars](https://img.shields.io/github/stars/Pete-Hamlin/albert-plugin-python-paperless)
@@ -15,7 +16,7 @@ Note that these have not been peer-reviewed.
 - [albertlauncher/albert-plugin-python-pwgen](https://github.com/albertlauncher/albert-plugin-python-pwgen) ![GitHub Repo stars](https://img.shields.io/github/stars/albertlauncher/albert-plugin-python-pwgen)
 - [albertlauncher/albert-plugin-python-zed-workspaces](https://github.com/albertlauncher/albert-plugin-python-zed-workspaces) ![GitHub Repo stars](https://img.shields.io/github/stars/albertlauncher/albert-plugin-python-zed-workspaces)
 
-## Old/Unmaintained/Dysfunctinoal plugins
+## Old/Unmaintained/Dysfunctional plugins
 
 Outdated plugins that could serve as starting point for development.
 
